@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CLI Weather App
 This is a command-line interface (CLI) application that fetches weather and temperature information for a city using OpenWeather's API. The app uses Python 3 and some standard libraries like argparse and json.
 
@@ -9,7 +10,8 @@ Create an account with OpenWeather and obtain an API key.
 Create a secrets.ini file in the root of the project and add your OpenWeather API key in the following format:
 
 [openweather]
-api_key=<YOUR-OPENWEATHER-API-KEY>
+api_key=<YOUR-OPENWEATHER-API-KEY> 
+
 Install the required packages by running the following command in your terminal:
 
 pip install -r requirements.txt
@@ -36,6 +38,10 @@ The optional -i flag can be used to display temperature in London in Fahrenheit 
 
 ## Contributing
 This app was created as a beginner's project to learn Python and API usage with the help of RealPython.com. Contributions and feedback are welcome!
+=======
+# Weather-CLI-App
+### My first project created in Python via the Command Line (CLI). One of the strengths of Python is that it has a rich and versatile standard library that makes it one of the best programming languages for writing scripts on the command line. I used the Python argparse library as it provides the best command line interface and was extremely user-friendly when configuring the program.
+>>>>>>> 13735809dff0e30173f3e7b89b74cfd9a72a9c04
 
 
 
