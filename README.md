@@ -1,4 +1,4 @@
-## CLI Weather App
+## Weather App
 
 This is a command-line interface (CLI) application that fetches weather and temperature information for a city using OpenWeather's API. The app uses Python 3 and some standard libraries like argparse and json.
 
