@@ -37,11 +37,9 @@ python weather.py London -i
 The optional -i flag can be used to display temperature in London in Fahrenheit instead of Celsius.
 
 ## Contributing
+
 This app was created as a beginner's project to learn Python and API usage with the help of RealPython.com. Contributions and feedback are welcome!
-=======
-# Weather-CLI-App
-### My first project created in Python via the Command Line (CLI). One of the strengths of Python is that it has a rich and versatile standard library that makes it one of the best programming languages for writing scripts on the command line. I used the Python argparse library as it provides the best command line interface and was extremely user-friendly when configuring the program.
->>>>>>> 13735809dff0e30173f3e7b89b74cfd9a72a9c04
+
 
 
 
