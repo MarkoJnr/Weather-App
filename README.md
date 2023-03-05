@@ -9,7 +9,7 @@ Create an account with OpenWeather and obtain an API key.
 
 Create a secrets.ini file in the root of the project and add your OpenWeather API key in the following format:
 
-[openweather]
+**[openweather]**
 **api_key=<YOUR-OPENWEATHER-API-KEY>** 
 
 Install the required packages by running the following command in your terminal:
@@ -18,7 +18,9 @@ Install the required packages by running the following command in your terminal:
 
 ## How it works
 
-The app takes a city name as input and makes an API request to OpenWeather's weather API to retrieve the current weather and temperature information for that city. The app then displays the information in the terminal using colors to distinguish between different weather conditions.
+The app takes a city name as input and makes an API request to OpenWeather's weather API to retrieve the current weather and temperature information for that city. 
+
+The app then displays the information in the terminal using colors to distinguish between different weather conditions.
 
 ## How to use it
 
@@ -49,7 +51,7 @@ Note that the weather conditions and temperature will depend on the current weat
 
 ## Contributing
 
-This app was created as a beginner's project to learn Python and API usage with the help of RealPython.com. Contributions and feedback are welcome!
+This application was created as my first major project with the goal of improving my Python programming skills and exploring API usage, with valuable guidance from RealPython.com.
 
 
 
